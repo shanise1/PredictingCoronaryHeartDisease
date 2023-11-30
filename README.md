@@ -16,6 +16,7 @@ The dataset is gathered from the  Center for Disease Control and Prevention’s 
 
 
 # Model Approach 
+Three predictive models created using three different analysis techniques--XGBoost, Gaussian Naïve Bayes, and Linear Regression--were developed to assess coronary heart disease risk factors and lifestyle choices. Each model was trained at the state-level for counties before being aggregated and tested at the continental level. We then compared the accuracy of each of the continental models primarily using mean squared error to determine the best fit model for further analysis.
 
 Add information about models here. 
 ![model](images/modelapproach.png)
