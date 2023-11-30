@@ -18,16 +18,16 @@ The dataset is gathered from the  Center for Disease Control and Prevention’s 
 # Model Approach 
 Three predictive models created using three different analysis techniques--XGBoost, Gaussian Naïve Bayes, and Linear Regression--were developed to assess coronary heart disease risk factors and lifestyle choices. Each model was trained at the state-level for counties before being aggregated and tested at the continental level. We then compared the accuracy of each of the continental models primarily using mean squared error to determine the best fit model for further analysis.
 
-Add information about models here. 
+Below is a diagram of our complete modeling approach.  
 ![model](images/modelapproach.png)
 
 # Results 
+Using the mean squared error, we measured the accuracy of each predictive model. The XGBoost provided the most accurate model, and thus, its findings are reported here.  According to the XGBoost model, the top three risk factors that predict coronary heart disease are: having high cholesterol, being in a household without a computer, and being 25+ years old without a 4-year college degree. Our model provides insights into coronary heart disease risk factors and demonstrates that access to education and technology impacts health. By increasing access to education and technology, communities can help reduce the likelihood of getting coronary heart disease.  See image below for the complete list of feature importances of risk factors for coronary heart disease using the XGBoost model.
 
 ![xgboostresults](images/xgboostresults.png)
 
-# Future Work 
-
-Add future work here. 
+# Future Work
+Our results focused on risk factors influencing coronary heart disease at the continental level. However, it is likely that these risk factors vary in importance based on individual differences within the US states. To better understand these differences, we propose that case studies be conducted on individual states. Some states lack access to healthcare resources more than other states. 
 
 # Dependencies
 Add the packages we used like LassoCV, XGboost, GaussianNaiveBayes, matlibplots, etc. 
