@@ -5,5 +5,14 @@ by Henri Antikainen, Rachel Appel, Melanie King, Sriram Raghunath, Shanise Walke
 
 # Project Description
 
+# Data Gathering
+
+# Model Approach 
+![model]
+# Results 
+
+# Future Work 
+
+# Dependencies
 
 
