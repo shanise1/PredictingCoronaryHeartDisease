@@ -3,8 +3,13 @@
 
 by Henri Antikainen, Rachel Appel, Melanie King, Sriram Raghunath, Shanise Walker
 
-# Project Description
-description needed. 
+# Project Description and Goal
+Heart disease is the leading cause of death in the United States (US) and the most common type of heart disease is coronary heart disease. Each year many families and individuals are impacted by diagnoses of coronary heart disease or death caused by coronary heart disease. There are a number of risk factors and lifestyle choices that can put people at risk for developing coronary heart disease. While many people may understand the biological or medical risk factors that place them at higher risks for developing coronary heart disease, there is still a gap in understanding how lifestyle choices and cultures also impact the development of coronary heart disease. 
+
+# Project Goal
+One People may not know how risk factors or their lifestyle choices that place them at higher risk to developing coronary heart disease. 
+
+We tackle the problem of using supervised learning models to 
 
 # Dataset
 
