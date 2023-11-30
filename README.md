@@ -24,7 +24,7 @@ Using the mean squared error, we measured the accuracy of each predictive model.
 ![xgboostresults](images/xgboostresults.png)
 
 # Future Iterations
-For the future of this project, data needs to be collected at the county-level for all features, especially for US territories. This data will improve our supervised learning models by filling in gaps in the data to allow for more accuracy of all three models in predicting how risk factors and lifestyle choices impact the development of coronary heart disease. Further improvements on this project can be made by better feature selections for our models. 
+For the future of this project, data needs to be collected at the county-level for all features, especially for US territories. This data will improve our supervised learning models by filling in gaps in the data to improve the accuracy of all three models in predicting how risk factors and lifestyle choices impact the development of coronary heart disease. Further improvements on this project can be made by better feature selections for our models. 
 
 # Dependencies
 Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, XGBoost
