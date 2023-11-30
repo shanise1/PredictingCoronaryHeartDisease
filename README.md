@@ -8,7 +8,8 @@ by Henri Antikainen, Rachel Appel, Melanie King, Sriram Raghunath, Shanise Walke
 # Data Gathering
 
 # Model Approach 
-![model]
+![model](images/modelapproach.png)
+
 # Results 
 
 # Future Work 
