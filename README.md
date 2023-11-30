@@ -4,6 +4,7 @@
 by Henri Antikainen, Rachel Appel, Melanie King, Sriram Raghunath, Shanise Walker
 
 # Project Description
+description needed. 
 
 # Dataset
 
@@ -11,6 +12,8 @@ The dataset is gathered from the  Center for Disease Control and Prevention’s 
 
 
 # Model Approach 
+
+Add information about models here. 
 ![model](images/modelapproach.png)
 
 # Results 
@@ -19,6 +22,8 @@ The dataset is gathered from the  Center for Disease Control and Prevention’s 
 
 # Future Work 
 
-# Dependencies
+Add future work here. 
 
+# Dependencies
+Add the packages we used like LassoCV, XGboost, GaussianNaiveBayes, matlibplots, etc. 
 
