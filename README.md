@@ -23,8 +23,8 @@ Using the mean squared error, we measured the accuracy of each predictive model.
 
 ![xgboostresults](images/xgboostresults.png)
 
-# Future Work
-Our results focused on risk factors influencing coronary heart disease at the continental level. However, it is likely that these risk factors vary in importance based on individual differences within the US states. To better understand these differences, we propose that case studies be conducted on individual states. Some states lack access to healthcare resources more than other states.  Some states lack access to healthcare resources more than other states. Future project expansion hopes to capture these healthcare resource discrepancies. Further exploration can also be done on states with the highest (e.g., Ohio) and lowest (e.g., Nevada) predictive accuracy (as measured by MSE) in our XGBoost model. Understanding why the states varied in predictive accuracy can help strengthen the model. 
+# Future Iterations
+For the future of this project, data needs to be collected at the county-level for all features, especially for US territories. This data will improve our supervised learning models by filling in gaps in the data to allow for more accuracy of all three models in predicting how risk factors and lifestyle choices impact the development of coronary heart disease. Further improvements on this project can be made by better feature selections for our models. 
 
 # Dependencies
 Pandas, Numpy, Scikit-Learn, Matplotlib, Seaborn, XGBoost
