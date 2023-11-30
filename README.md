@@ -15,6 +15,8 @@ The dataset is gathered from the  Center for Disease Control and Prevention’s 
 
 # Results 
 
+![xgboostresults](images/xgboostresults.png)
+
 # Future Work 
 
 # Dependencies
